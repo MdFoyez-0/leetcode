@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/MdFoyez-0/leetcode/tree/master/0036-valid-sudoku) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/MdFoyez-0/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/MdFoyez-0/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

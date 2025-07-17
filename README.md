@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MdFoyez-0/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MdFoyez-0/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/MdFoyez-0/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/MdFoyez-0/leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/MdFoyez-0/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/MdFoyez-0/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/MdFoyez-0/leetcode/tree/master/0739-daily-temperatures) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/MdFoyez-0/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
@@ -75,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MdFoyez-0/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/MdFoyez-0/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

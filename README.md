@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MdFoyez-0/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/MdFoyez-0/leetcode/tree/master/0739-daily-temperatures) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/MdFoyez-0/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3226-minimum-number-game](https://github.com/MdFoyez-0/leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MdFoyez-0/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0088-merge-sorted-array) |
+| [3226-minimum-number-game](https://github.com/MdFoyez-0/leetcode/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -86,8 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MdFoyez-0/leetcode/tree/master/0258-add-digits) |
+| [3226-minimum-number-game](https://github.com/MdFoyez-0/leetcode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MdFoyez-0/leetcode/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/MdFoyez-0/leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MdFoyez-0/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MdFoyez-0/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/MdFoyez-0/leetcode/tree/master/0125-valid-palindrome) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/MdFoyez-0/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/MdFoyez-0/leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/MdFoyez-0/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/MdFoyez-0/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/MdFoyez-0/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Union Find
 |  |

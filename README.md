@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdFoyez-0/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MdFoyez-0/leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/MdFoyez-0/leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/MdFoyez-0/leetcode/tree/master/0883-car-fleet) |
 ## Design
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdFoyez-0/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/MdFoyez-0/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/MdFoyez-0/leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/MdFoyez-0/leetcode/tree/master/0883-car-fleet) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/MdFoyez-0/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MdFoyez-0/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MdFoyez-0/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MdFoyez-0/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0088-merge-sorted-array) |
+| [0883-car-fleet](https://github.com/MdFoyez-0/leetcode/tree/master/0883-car-fleet) |
 | [3226-minimum-number-game](https://github.com/MdFoyez-0/leetcode/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MdFoyez-0/leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/MdFoyez-0/leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/MdFoyez-0/leetcode/tree/master/0883-car-fleet) |
 ## Simulation
 |  |
 | ------- |

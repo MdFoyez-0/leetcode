@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MdFoyez-0/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MdFoyez-0/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/MdFoyez-0/leetcode/tree/master/0125-valid-palindrome) |
+| [0742-to-lower-case](https://github.com/MdFoyez-0/leetcode/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MdFoyez-0/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |

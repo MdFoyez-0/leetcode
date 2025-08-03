@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MdFoyez-0/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MdFoyez-0/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/MdFoyez-0/leetcode/tree/master/3226-minimum-number-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/MdFoyez-0/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdFoyez-0/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/MdFoyez-0/leetcode/tree/master/0258-add-digits) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MdFoyez-0/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/MdFoyez-0/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Prefix Sum
 |  |
 | ------- |

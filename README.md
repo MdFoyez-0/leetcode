@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MdFoyez-0/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/MdFoyez-0/leetcode/tree/master/0739-daily-temperatures) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/MdFoyez-0/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/MdFoyez-0/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/MdFoyez-0/leetcode/tree/master/0907-koko-eating-bananas) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MdFoyez-0/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MdFoyez-0/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/MdFoyez-0/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/MdFoyez-0/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |

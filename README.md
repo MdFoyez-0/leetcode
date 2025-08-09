@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/MdFoyez-0/leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdFoyez-0/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/MdFoyez-0/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MdFoyez-0/leetcode/tree/master/0258-add-digits) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MdFoyez-0/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MdFoyez-0/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/MdFoyez-0/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MdFoyez-0/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MdFoyez-0/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MdFoyez-0/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MdFoyez-0/leetcode/tree/master/0125-valid-palindrome) |
+| [1019-squares-of-a-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/MdFoyez-0/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/MdFoyez-0/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/MdFoyez-0/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1019-squares-of-a-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MdFoyez-0/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/MdFoyez-0/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MdFoyez-0/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MdFoyez-0/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0088-merge-sorted-array) |
 | [0883-car-fleet](https://github.com/MdFoyez-0/leetcode/tree/master/0883-car-fleet) |
+| [1019-squares-of-a-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/MdFoyez-0/leetcode/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |

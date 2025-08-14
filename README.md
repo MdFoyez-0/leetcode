@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/MdFoyez-0/leetcode/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MdFoyez-0/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MdFoyez-0/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/MdFoyez-0/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
 | ------- |

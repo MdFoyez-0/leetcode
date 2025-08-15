@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MdFoyez-0/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MdFoyez-0/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MdFoyez-0/leetcode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/MdFoyez-0/leetcode/tree/master/0342-power-of-four) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MdFoyez-0/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MdFoyez-0/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Prefix Sum
@@ -154,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MdFoyez-0/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/MdFoyez-0/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MdFoyez-0/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MdFoyez-0/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MdFoyez-0/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/MdFoyez-0/leetcode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |

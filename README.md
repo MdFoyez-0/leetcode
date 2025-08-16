@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MdFoyez-0/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MdFoyez-0/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/MdFoyez-0/leetcode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/MdFoyez-0/leetcode/tree/master/1448-maximum-69-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MdFoyez-0/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MdFoyez-0/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Prefix Sum
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MdFoyez-0/leetcode/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/MdFoyez-0/leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |

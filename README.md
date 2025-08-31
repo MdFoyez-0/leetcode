@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MdFoyez-0/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/MdFoyez-0/leetcode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/MdFoyez-0/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MdFoyez-0/leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/MdFoyez-0/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MdFoyez-0/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MdFoyez-0/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/MdFoyez-0/leetcode/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MdFoyez-0/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MdFoyez-0/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MdFoyez-0/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MdFoyez-0/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MdFoyez-0/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/MdFoyez-0/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MdFoyez-0/leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/MdFoyez-0/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MdFoyez-0/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |

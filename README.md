@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MdFoyez-0/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/MdFoyez-0/leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/MdFoyez-0/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/MdFoyez-0/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/MdFoyez-0/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -188,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/MdFoyez-0/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/MdFoyez-0/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MdFoyez-0/leetcode/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/MdFoyez-0/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
